@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Lab01 - Rest Template" type="Multirun" separateTabs="false" reuseTabsWithFailures="false" startOneByOne="true" markFailedProcess="true" hideSuccessProcess="false" delayTime="0.0">
+    <runConfiguration name="EmployeeServiceApplication [lab01]" type="Spring Boot" />
+    <runConfiguration name="ProjectServiceApplication [lab01]" type="Spring Boot" />
+    <method v="2" />
+  </configuration>
+</component>

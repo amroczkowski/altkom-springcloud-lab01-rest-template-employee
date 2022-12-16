@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ProjectServiceApplication [lab06]" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <option name="ACTIVE_PROFILES" />
+    <module name="project-service-lab06" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="pl.altkom.springcloud.lab06.resilience4j.projectservice.ProjectServiceApplication" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

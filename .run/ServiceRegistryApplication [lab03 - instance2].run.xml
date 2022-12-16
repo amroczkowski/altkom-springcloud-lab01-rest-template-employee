@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ServiceRegistryApplication [lab03 - instance2]" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <option name="ACTIVE_PROFILES" value="instance2" />
+    <module name="service-registry-lab03" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="pl.altkom.springcloud.lab03.eureka.serviceregistry.ServiceRegistryApplication" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

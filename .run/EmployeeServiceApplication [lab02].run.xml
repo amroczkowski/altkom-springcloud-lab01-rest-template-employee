@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="EmployeeServiceApplication [lab02]" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <option name="ACTIVE_PROFILES" />
+    <module name="employee-service-lab02" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="pl.altkom.springcloud.lab02.feign.employeeservice.EmployeeServiceApplication" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

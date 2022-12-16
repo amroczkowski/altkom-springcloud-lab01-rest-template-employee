@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Lab03 - Service Registry Multi" type="Multirun" separateTabs="false" reuseTabsWithFailures="false" startOneByOne="true" markFailedProcess="true" hideSuccessProcess="false" delayTime="0.0">
+    <runConfiguration name="ServiceRegistryApplication [lab03 - instance1]" type="Spring Boot" />
+    <runConfiguration name="ServiceRegistryApplication [lab03 - instance2]" type="Spring Boot" />
+    <runConfiguration name="EmployeeServiceApplication [lab03]" type="Spring Boot" />
+    <runConfiguration name="ProjectServiceApplication [lab03]" type="Spring Boot" />
+    <method v="2" />
+  </configuration>
+</component>

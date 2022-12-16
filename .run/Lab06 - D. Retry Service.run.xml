@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Lab06 - D. Retry Service" type="Multirun" separateTabs="false" reuseTabsWithFailures="false" startOneByOne="true" markFailedProcess="true" hideSuccessProcess="false" delayTime="0.0">
+    <runConfiguration name="ConfigServerApplication [lab05]" type="Spring Boot" />
+    <runConfiguration name="ServiceRegistryApplication [lab03]" type="Spring Boot" />
+    <runConfiguration name="CloudGatewayApplication [lab06]" type="Spring Boot" />
+    <runConfiguration name="EmployeeServiceApplication [lab06 - instance1]" type="Spring Boot" />
+    <runConfiguration name="EmployeeServiceApplication [lab06 - instance2]" type="Spring Boot" />
+    <runConfiguration name="ProjectServiceApplication [lab06 - retry]" type="Spring Boot" />
+    <method v="2" />
+  </configuration>
+</component>

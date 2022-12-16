@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Lab07 - OAuth2" type="Multirun" separateTabs="false" reuseTabsWithFailures="false" startOneByOne="true" markFailedProcess="true" hideSuccessProcess="false" delayTime="0.0">
+    <runConfiguration name="ConfigServerApplication [lab05]" type="Spring Boot" />
+    <runConfiguration name="ServiceRegistryApplication [lab03]" type="Spring Boot" />
+    <runConfiguration name="CloudGatewayApplication [lab07]" type="Spring Boot" />
+    <runConfiguration name="EmployeeServiceApplication [lab07]" type="Spring Boot" />
+    <runConfiguration name="ProjectServiceApplication [lab07]" type="Spring Boot" />
+    <method v="2" />
+  </configuration>
+</component>
